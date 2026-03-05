@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Academic
+Mini_Projet_Bases_IA.pdf
+rapport.tex
